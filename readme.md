@@ -1,0 +1,2 @@
+# Welcome to ArchLudite
+I know it is not the best these days to be called a ludite.  I will do the name proud, even though I might not be able to spell it correctly at times.  This is my first repo for this account.  Here, my goal is to test my git configurations and the configurations of other student in the parametric design course at univesity.
